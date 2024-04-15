@@ -1,6 +1,6 @@
 ----------JAVASCRIPT MODERNO------------------
 
-Javascript moderno te proporciona una nueva forma de entender js, gracias a una metodología más optimizada de js, también se introduce algunos conceptos más avanzados como el testing, las colecciones o algo de nodejs.
+Javascript moderno te proporciona una nueva forma de entender js, gracias a una metodología más optimizada de js, también se introduce algunos conceptos más avanzados como el testing o las colecciones.
 
 Índice:
 
